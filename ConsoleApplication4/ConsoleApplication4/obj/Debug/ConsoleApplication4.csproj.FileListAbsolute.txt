@@ -1,0 +1,13 @@
+c:\users\andrei.bobrenko\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+c:\users\andrei.bobrenko\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+c:\users\andrei.bobrenko\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+c:\users\andrei.bobrenko\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+c:\users\andrei.bobrenko\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+c:\users\andrei.bobrenko\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Home-Comp\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Home-Comp\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Home-Comp\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Home-Comp\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojAssemblyReference.cache
+C:\Users\Home-Comp\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Home-Comp\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Home-Comp\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
